@@ -16,7 +16,7 @@ Record or stream gameplay featuring the Mod, provided credit is given to the Own
 3. Strict Prohibitions
 Under this license, YOU MAY NOT:
 
-Redistribute: You may not upload, mirror, or host the Mod files on any website, cloud service, or forum (e.g., BoxToPlay, 9Minecraft, etc.).
+Redistribute: You may not upload, mirror, or host the Mod files on any website, cloud service, or forum (e.g., BoxToPlay, 9Minecraft, etc.) The only websites alowed for distributation are thestuffmod.org and Modrinth.com.
 
 Modify: You may not decompile, "remix," or alter the Mod’s source code or assets for public distribution.
 
