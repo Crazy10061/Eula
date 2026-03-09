@@ -16,7 +16,7 @@ Record or stream gameplay featuring the Mod, provided credit is given to the Own
 3. Strict Prohibitions
 Under this license, YOU MAY NOT:
 
-Redistribute: You may not upload, mirror, or host the Mod files on any website, cloud service, or forum (e.g., BoxToPlay, 9Minecraft, etc.) The only websites alowed for distributation are thestuffmod.org and Modrinth.com.
+Redistribute: You may not upload, mirror, or host the Mod files on any website, cloud service, or forum (e.g., BoxToPlay, 9Minecraft, etc.) The only websites alowed for distributtion are thestuffmod.org and Modrinth.com.
 
 Modify: You may not decompile, "remix," or alter the Mod’s source code or assets for public distribution.
 
@@ -25,7 +25,7 @@ Commercial Use: You may not sell the Mod or charge a fee for access to the Mod (
 Modpacks: You may not include this Mod in a public modpack without express written permission from the Owner.
 
 4. Termination
-This license is effective until terminated. Your rights under this license will terminate and may get contacted by the if you fail to comply with any of its terms. Upon termination, you must cease all use of the Mod and delete all copies.
+This license is effective until terminated. Your rights under this license will terminate and may get contacted and possibly DMCA striked by the mod owner if you fail to comply with any of its terms. Upon termination, you must cease all use of the Mod and delete all copies.
 
 5. Disclaimer of Warranty
 The Mod is provided "as is." The Owner is not responsible for any damage to your software, hardware, or Minecraft saves resulting from the use of this Mod.
